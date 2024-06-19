@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pratham Barot</h1>
+<h1 align="center">Hi, I'm Pratham Barot</h1>
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
 <img align="center" alt="Programmer" width="1000" src="tenor.gif">
 
