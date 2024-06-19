@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Barot</h1>
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
-<img align="right" alt="Programmer" width="400" src="Computer-screen-code-glitch-animation-gif-background-free.gif">
+<img align="right" alt="Programmer" width="400" src="coding gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protham02&label=Profile%20views&color=0e75b6&style=flat" alt="protham02" /> </p>
 
