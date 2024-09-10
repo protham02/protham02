@@ -29,10 +29,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=protham02&show_icons=true&locale=en&layout=compact" alt="protham02" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=protham02&show_icons=true&locale=en" alt="protham02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=protham02&" alt="protham02" /></p>
