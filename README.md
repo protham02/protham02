@@ -25,6 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=protham02&" alt="protham02" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protham02&label=Profile%20views&color=0e75b6&style=flat" alt="protham02" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
