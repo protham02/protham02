@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
 <img align="center" alt="Programmer" width="1000" src="tenor.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protham02&label=Profile%20views&color=0e75b6&style=flat" alt="protham02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=protham02&label=Profile%20views&color=0e75b6&style=flat" alt="protham02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
